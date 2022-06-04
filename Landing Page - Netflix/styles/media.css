@@ -1,0 +1,13 @@
+@media screen and (max-width: 760px){
+    
+
+main{
+    flex-direction: column;
+    
+}
+
+body{
+    background-size: 700px 700px;
+    background-repeat: no-repeat;
+}
+}
