@@ -1,4 +1,4 @@
-# 💻 Projeto: LandingpageNetflix.
+# 💻 Projeto: Landing Page Netflix.
 Neste projeto fiz uma landingpage da NetFlix.
 
 🚀  Tecnologia utilizada:
